@@ -1,0 +1,15 @@
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-18\a_faire\à faire\Exo\4_Lambdas\2_Exercice\Lamba_2\bin\Debug\net6.0\Lamba_2.exe
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-18\a_faire\à faire\Exo\4_Lambdas\2_Exercice\Lamba_2\bin\Debug\net6.0\Lamba_2.deps.json
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-18\a_faire\à faire\Exo\4_Lambdas\2_Exercice\Lamba_2\bin\Debug\net6.0\Lamba_2.runtimeconfig.json
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-18\a_faire\à faire\Exo\4_Lambdas\2_Exercice\Lamba_2\bin\Debug\net6.0\Lamba_2.dll
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-18\a_faire\à faire\Exo\4_Lambdas\2_Exercice\Lamba_2\bin\Debug\net6.0\Lamba_2.pdb
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-18\a_faire\à faire\Exo\4_Lambdas\2_Exercice\Lamba_2\obj\Debug\net6.0\Lamba_2.csproj.AssemblyReference.cache
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-18\a_faire\à faire\Exo\4_Lambdas\2_Exercice\Lamba_2\obj\Debug\net6.0\Lamba_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-18\a_faire\à faire\Exo\4_Lambdas\2_Exercice\Lamba_2\obj\Debug\net6.0\Lamba_2.AssemblyInfoInputs.cache
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-18\a_faire\à faire\Exo\4_Lambdas\2_Exercice\Lamba_2\obj\Debug\net6.0\Lamba_2.AssemblyInfo.cs
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-18\a_faire\à faire\Exo\4_Lambdas\2_Exercice\Lamba_2\obj\Debug\net6.0\Lamba_2.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-18\a_faire\à faire\Exo\4_Lambdas\2_Exercice\Lamba_2\obj\Debug\net6.0\Lamba_2.dll
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-18\a_faire\à faire\Exo\4_Lambdas\2_Exercice\Lamba_2\obj\Debug\net6.0\refint\Lamba_2.dll
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-18\a_faire\à faire\Exo\4_Lambdas\2_Exercice\Lamba_2\obj\Debug\net6.0\Lamba_2.pdb
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-18\a_faire\à faire\Exo\4_Lambdas\2_Exercice\Lamba_2\obj\Debug\net6.0\Lamba_2.genruntimeconfig.cache
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-18\a_faire\à faire\Exo\4_Lambdas\2_Exercice\Lamba_2\obj\Debug\net6.0\ref\Lamba_2.dll
